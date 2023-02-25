@@ -1,0 +1,441 @@
+@media screen and (max-width: 1290px) {
+    .city {
+        display: none;
+    }
+
+    .headerPhone>span {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .headerPhone {
+        display: none;
+    }
+
+    .headerSeaction1 {
+        padding: 0 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .headerPhone {
+        display: none;
+    }
+
+    .headerSeaction1 {
+        padding: 0 48px;
+    }
+
+    .headerNav {
+        display: none;
+    }
+
+    .mediaMenu {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+
+    .stock,
+    .brand {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 810px) {
+    .searchInput {
+        display: none;
+    }
+
+    .accountLikeCart {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 633px) {
+    .section1Line1 {
+        display: table-cell;
+    }
+
+    .section1 {
+        padding-left: 6%;
+    }
+
+    .accountLikeCart {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 516px) {
+    .catalogMenuChoice {
+        width: 189px;
+    }
+
+}
+
+@media screen and (max-width: 1250px) {
+    .raiberPart {
+        display: none;
+    }
+
+    .line2Leftpart {
+        width: 100%;
+    }
+
+    .section1Line2Slider {
+        width: 100%;
+        gap: 100%;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .ordersInfo {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .section2 {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 1016px) {
+    .aboutOrder {
+        width: 48%;
+    }
+}
+
+@media screen and (max-width: 804px) {
+    .aboutOrder {
+        width: 100%;
+    }
+
+    .ordersInfo {
+        gap: 20px
+    }
+}
+
+@media screen and (max-width: 1476px) {
+    .allCotaction {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 28px
+    }
+
+    .leftColaction,
+    .rigthColaction {
+        width: 100%;
+    }
+
+    .firstLineRoomPhoto,
+    .secondLineRoomPhoto {
+        justify-content: space-around;
+    }
+
+    .rigthColaction {
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 676px) {
+
+    .firstLineRoomPhoto,
+    .secondLineRoomPhoto {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width: 512px) {
+    .cotectionTit {
+        width: 188px;
+    }
+}
+
+@media screen and (max-width: 717px) {
+    .saleTit::before {
+        display: none;
+    }
+}
+@media screen and (max-width: 1332px) {
+    .salePart {
+        gap: 3%;
+    }
+
+}
+@media screen and (max-width: 1094px) {
+    .salePart {
+        gap: 3%;
+    }
+}
+@media screen and (max-width: 660px) {
+    .daysPart {
+        gap: 15%;
+    }
+    .daysPart>span {
+        font-size: 14px;
+    }
+    .completionTime {
+        font-size: 42px;
+        gap: 8%;
+    }
+}
+@media screen and (max-width: 984px) {
+    .salePart {
+        flex-direction: column;
+        justify-content: center;
+    } 
+    .countDown {
+        margin-left: -14%;
+    }
+
+}
+
+
+
+@media screen and (max-width: 1480px) {
+
+    .bestSellersMenu>li>a,
+    .otherLi>a {
+        font-size: 9px;
+        padding: 8px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .bestSellersMenu {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 1462px) {
+    .price {
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 10px;
+        align-items: unset;
+        margin-bottom: 14px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+
+    .headerSeaction {
+        padding: unset;
+    }
+
+    .section1 {
+        padding: 0 2px;
+    }
+
+    header {
+        padding: 0 8px;
+    }
+}
+
+@media screen and (max-width: 1254px) {
+    .slideImg {
+        width: 100%;
+    }
+
+    .slideTxt {
+        display: none;
+    }
+
+    .otherBackground,
+    .otherBack,
+    .section5 {
+        padding: 10px;
+    }
+   
+}
+
+@media screen and (max-width: 790px) {
+    .section2 {
+        flex-direction: column;
+    }
+
+    .sliderPart {
+        width: 100%;
+    }
+
+    .productSale {
+        display: none;
+    }
+
+    .mainSlide {
+        gap: 10%;
+    }
+}
+
+@media screen and (max-width: 989px) {
+    .productPart {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .productInfo {
+        width: 25%;
+    }
+
+    .productPartLArrow,
+    .productPartRArrow {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 669px) {
+    .productPart {
+        flex-direction: column;
+    }
+
+    .productInfo {
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 1102px) {
+    .otherBack {
+        padding: 0 20px;
+    }
+}
+@media screen and (max-width: 802px) {
+    .brandLine {
+        gap: 4px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .brandLine {
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 395px) {
+    .section6>h1 {
+        font-size: 22px;
+    }
+    .section6>h1::before {
+        width: 250px;
+    }
+
+}
+@media screen and (max-width: 1552px) {
+    .otherBack {
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width: 1297px) {
+    .accessoriesPart {
+        flex-wrap: wrap;
+    }
+    .accessoriesInfo {
+        width: 40%;
+    }
+    .accessoriesPart {
+        justify-content: space-around;
+    }
+
+}
+@media screen and (max-width: 590px) {
+    .accessoriesInfo {
+        width: 100%;
+    }
+    .accessoriesTxt>p {
+        width: 500px;
+    }
+}
+@media screen and (max-width: 850px) {
+    .accessoriesTxt {
+        padding-left: 7px;
+    }
+}
+@media screen and (max-width: 1389px) {
+    .seoTextContain>p {
+        font-size: 13px;
+    }
+    .seoTextContain {
+        width: 508px;
+    }
+}
+@media screen and (max-width: 1293px) {
+    .blackKitchen {
+        top: 38%;
+        left: 0;
+    }
+    .blackKitchen>img {
+        width: 50%;
+    }
+    .seoTextPart {
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 958px) {
+    .seoText {
+        background-image: url("img/blackKitchen.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .blackKitchen {
+        display: none;
+    }
+    .seoTextContain {
+        left: 2%;
+        background-color: #000;
+    }
+    .seoTextPart>h2 {
+        margin: 0 0 3% 3%;
+    }
+}
+@media screen and (max-width: 565px) {
+    .none {
+        display: none;
+    }
+    .seoTextContain {
+        width: 273px;
+    }
+
+}
+@media screen and (max-width: 1062px) {
+    footer {
+        padding: 40px 10px;
+    }
+
+}
+@media screen and (max-width: 858px) {
+    .topPart {
+        flex-wrap: wrap;
+    }
+    .topPart>div {
+        width: 40%;
+    }
+}
+@media screen and (max-width: 465px) {
+    .topPart>div {
+        width: 100%;
+        text-align: center;
+    }
+    .soialPage {
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 823px) {
+    .userForm {
+        width: 352px;
+    }
+}
+@media screen and (max-width: 668px) {
+    .userForm {
+        width: 352px;
+        right: 23%;
+        top: 1%;
+    }  
+}
+
